@@ -1,2 +1,2 @@
 # test update
-line 2 added
+line 2 updated
